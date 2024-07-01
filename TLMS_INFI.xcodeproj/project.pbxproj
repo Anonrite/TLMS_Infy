@@ -16,6 +16,7 @@
 		D1DC08C42C32A3B100BC80A8 /* TLMS_INFITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D1DC08C32C32A3B100BC80A8 /* TLMS_INFITests.swift */; };
 		D1DC08CE2C32A3B100BC80A8 /* TLMS_INFIUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D1DC08CD2C32A3B100BC80A8 /* TLMS_INFIUITests.swift */; };
 		D1DC08D02C32A3B100BC80A8 /* TLMS_INFIUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D1DC08CF2C32A3B100BC80A8 /* TLMS_INFIUITestsLaunchTests.swift */; };
+		D1DC08DD2C32A4A800BC80A8 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = D1DC08DC2C32A4A800BC80A8 /* .gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		D1DC08C92C32A3B100BC80A8 /* TLMS_INFIUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TLMS_INFIUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D1DC08CD2C32A3B100BC80A8 /* TLMS_INFIUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TLMS_INFIUITests.swift; sourceTree = "<group>"; };
 		D1DC08CF2C32A3B100BC80A8 /* TLMS_INFIUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TLMS_INFIUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		D1DC08DC2C32A4A800BC80A8 /* .gitignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 		D1DC08A02C32A3B000BC80A8 = {
 			isa = PBXGroup;
 			children = (
+				D1DC08DC2C32A4A800BC80A8 /* .gitignore */,
 				D1DC08AB2C32A3B000BC80A8 /* TLMS_INFI */,
 				D1DC08C22C32A3B100BC80A8 /* TLMS_INFITests */,
 				D1DC08CC2C32A3B100BC80A8 /* TLMS_INFIUITests */,
@@ -231,6 +234,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D1DC08DD2C32A4A800BC80A8 /* .gitignore in Resources */,
 				D1DC08B62C32A3B100BC80A8 /* Assets.xcassets in Resources */,
 				D1DC08B92C32A3B100BC80A8 /* Base in Resources */,
 				D1DC08B42C32A3B000BC80A8 /* Base in Resources */,
